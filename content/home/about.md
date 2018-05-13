@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Radiotherapy physics",
+    "Paediatric radiotherapy",
+    "Volumetric modulated arc therapy"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Medical Physics"
+  institution = "Institute of Cancer Research, University of London"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Medical Physics"
+  institution = "University of Aberdeen"
+  year = 2002
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Medical Physics"
+  institution = "University of Aberdeen"
+  year = 2001
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gregory Smyth is an experienced clinical scientist in the Joint Department of Physics at The Institute of Cancer Research and The Royal Marsden NHS Fountation Trust. His research interests include non-coplanar trajectories for volumetric arc therapy, paediatric radiotherapy, and quality assurance for clinical trials.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
