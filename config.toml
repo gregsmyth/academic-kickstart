@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Joint Department of Physics at The Institute of Cancer Research and The Royal Marsden NHSFT", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "my_portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   #email = "test@example.org"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
