@@ -3,7 +3,7 @@ title = "Dosimetric comparison of five different techniques for craniospinal irr
 date = 2018-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Enrica Seravalli", "Mirjam Bosman, "Yasmin Lassen-Ramshad", "Anne Vestergaard", "Foppe Oldenburger", "Jorrit Visser", "Efi Koutsouveli", "Chryssa Paraskevopoulou", "Gail Horan", "Thankamma Ajithkumar", "Beate Timmermann", "Carolina-Sofia Fuentes", "Gillian Whitfield", "Thomas Marchant", "Laetitia Padovani", "Eloise Garnier", "Lorenza Gandola", "Silvia Meroni", "Bianca AW Hoeben", "Martijn Kusters", "Claire Alapetite", "Sandra Losa", "Farid Goudjil", "Henriette Magelssen", "Morten Egeberg Evensen", "Frank Saran", "Gregory Smyth", "Barbara Rombi", "Roberto Righetto", "Rolf-Dieter Kortmann", "Geert O Janssens"]
+authors = ["Enrica Seravalli", "Mirjam Bosman", "Yasmin Lassen-Ramshad", "Anne Vestergaard", "Foppe Oldenburger", "Jorrit Visser", "Efi Koutsouveli", "Chryssa Paraskevopoulou", "Gail Horan", "Thankamma Ajithkumar", "Beate Timmermann", "Carolina-Sofia Fuentes", "Gillian Whitfield", "Thomas Marchant", "Laetitia Padovani", "Eloise Garnier", "Lorenza Gandola", "Silvia Meroni", "Bianca AW Hoeben", "Martijn Kusters", "Claire Alapetite", "Sandra Losa", "Farid Goudjil", "Henriette Magelssen", "Morten Egeberg Evensen", "Frank Saran", "Gregory Smyth", "Barbara Rombi", "Roberto Righetto", "Rolf-Dieter Kortmann", "Geert O Janssens"]
 
 # Publication type.
 # Legend:
