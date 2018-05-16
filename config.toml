@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://www.gregorysmyth.com/"
 
 # Title of your site
-title = "Academic"
+title = "Gregory Smyth"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -64,7 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "my_portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gregDOTsmyth@icr.ac.uk"
-  address = "Downs Road, Sutton, London SM2 5PT"
+  address = "Joint Department of Physics, The Royal Marsden NHSFT, Downs Road, Sutton, London SM2 5PT"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
