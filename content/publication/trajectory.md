@@ -3,7 +3,7 @@ title = "Trajectory optimization for dynamic couch rotation during volumetric mo
 date = 2013-11-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gregory Smyth, Jeffrey C Bamber, Philip M Evans, James L Bedford]
+authors = ["Gregory Smyth", "Jeffrey C Bamber", "Philip M Evans", "James L Bedford"]
 
 # Publication type.
 # Legend:
