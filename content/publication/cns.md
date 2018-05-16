@@ -36,18 +36,7 @@ selected = true
 
 # Links (optional).
 url_pdf = "https://www.tandfonline.com/doi/abs/10.1080/0284186X.2018.1465588"
-url_preprint = "https://repository.icr.ac.uk/handle/internal/1662"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true

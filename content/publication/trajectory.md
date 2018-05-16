@@ -39,10 +39,6 @@ url_pdf = "http://iopscience.iop.org/article/10.1088/0031-9155/58/22/8163/meta"
 url_preprint = "http://epubs.surrey.ac.uk/806909/"
 
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
 # Does the content use math formatting?
 math = true
 
