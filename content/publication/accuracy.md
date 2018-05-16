@@ -21,7 +21,7 @@ publication = "*Submitted*"
 #publication_short = "In *Radiother. Oncol.*"
 
 # Abstract and optional shortened version.
-#abstract = ""
+abstract = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
