@@ -1,9 +1,10 @@
 +++
-title = "Delivery accuracy of dynamic couch rotation during volumetric modulated arc therapy (DCR-VMAT) for primary brain tumours"
-date = 2018-05-01T00:00:00
+title = "Quality of treatment plans and accuracy of in vivo portal dosimetry in hybrid intensity-modulated radiation therapy and volumetric modulated arc therapy for prostate cancer"
+date = 2016-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gregory Smyth", "Philip M Evans", "Jeffrey C Bamber", "Henry C Mandeville", "A Rollo Moore", "Liam C Welsh", "Frank H Saran", "James L Bedford"]
+authors = ["James L Bedford", "Gregory Smyth", "Ian M Hanson", "Alison C Tree", "David P Dearnaley", "Vibeke N Hansen"]
+
 
 # Publication type.
 # Legend:
@@ -17,7 +18,7 @@ authors = ["Gregory Smyth", "Philip M Evans", "Jeffrey C Bamber", "Henry C Mande
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Submitted*"
+publication = "In *Radiother. Oncol.*"
 #publication_short = "In *Radiother. Oncol.*"
 
 # Abstract and optional shortened version.

@@ -1,9 +1,9 @@
 +++
-title = "Delivery accuracy of dynamic couch rotation during volumetric modulated arc therapy (DCR-VMAT) for primary brain tumours"
-date = 2018-05-01T00:00:00
+title = "A dose distribution overlay technique for image guidance during prostate radiotherapy"
+date = 2008-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gregory Smyth", "Philip M Evans", "Jeffrey C Bamber", "Henry C Mandeville", "A Rollo Moore", "Liam C Welsh", "Frank H Saran", "James L Bedford"]
+authors = ["Gregory Smyth", "Hazel M McCallum", "Elizabeth L Lambert", "Gill P Lawrence"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["Gregory Smyth", "Philip M Evans", "Jeffrey C Bamber", "Henry C Mande
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Submitted*"
+publication = "In *Brit. J. Radiol.*"
 #publication_short = "In *Radiother. Oncol.*"
 
 # Abstract and optional shortened version.

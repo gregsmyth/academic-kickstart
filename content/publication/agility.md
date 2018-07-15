@@ -1,9 +1,10 @@
 +++
-title = "Delivery accuracy of dynamic couch rotation during volumetric modulated arc therapy (DCR-VMAT) for primary brain tumours"
-date = 2018-05-01T00:00:00
+title = "Beam modeling and VMAT performance with the Agility 160-leaf multileaf collimator"
+date = 2013-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gregory Smyth", "Philip M Evans", "Jeffrey C Bamber", "Henry C Mandeville", "A Rollo Moore", "Liam C Welsh", "Frank H Saran", "James L Bedford"]
+authors = ["James L Bedford", "Michael D R Thomas", "Gregory Smyth"]
+
 
 # Publication type.
 # Legend:
@@ -17,7 +18,7 @@ authors = ["Gregory Smyth", "Philip M Evans", "Jeffrey C Bamber", "Henry C Mande
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Submitted*"
+publication = "In *J. Appl. Clin. Med. Phys.*"
 #publication_short = "In *Radiother. Oncol.*"
 
 # Abstract and optional shortened version.
