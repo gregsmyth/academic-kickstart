@@ -1,6 +1,6 @@
 +++
 title = "Beam modeling and VMAT performance with the Agility 160-leaf multileaf collimator"
-date = 2013-07-01T00:00:00
+date = 2013-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["James L Bedford", "Michael D R Thomas", "Gregory Smyth"]

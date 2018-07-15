@@ -1,6 +1,6 @@
 +++
 title = "Quality of treatment plans and accuracy of in vivo portal dosimetry in hybrid intensity-modulated radiation therapy and volumetric modulated arc therapy for prostate cancer"
-date = 2016-07-01T00:00:00
+date = 2016-08-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["James L Bedford", "Gregory Smyth", "Ian M Hanson", "Alison C Tree", "David P Dearnaley", "Vibeke N Hansen"]

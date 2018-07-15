@@ -1,6 +1,6 @@
 +++
 title = "Comparison of a simple dose-guided intervention technique for prostate radiotherapy with existing anatomical image guidance methods"
-date = 2012-07-01T00:00:00
+date = 2012-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Gregory Smyth", "Hazel M McCallum", "Michael J M Pearson", "Gill P Lawrence"]
