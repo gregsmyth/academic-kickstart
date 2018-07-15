@@ -1,6 +1,6 @@
 +++
 title = "Clinical challenges in the implementation of a tomotherapy service for head and neck cancer patients in a regional UK radiotherapy centre"
-date = 2012-07-01T00:00:00
+date = 2008-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sanjoy Chatterjee", "Judith H Mott", "Gregory Smyth", "Susan Dickson", "Werner Dobrowsky", "Charles G Kelly"]
@@ -27,7 +27,7 @@ abstract = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,7 +35,7 @@ selected = true
 #projects = ["dvr-vmat"]
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://www.birpublications.org/doi/abs/10.1259/bjr/19586137"
 
 
 # Does the content use math formatting?

@@ -28,7 +28,7 @@ abstract = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -36,7 +36,7 @@ selected = true
 #projects = ["dvr-vmat"]
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0167814016311963"
 
 
 # Does the content use math formatting?
